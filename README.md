@@ -13,3 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 ## TYPE THE MESSAGE IN THE INPUT FIELD , PRESS THE SEND BUTTON AND THE MESSAGE WILL BE DISPLAYED IN THE CHAT SECTION
+
+#OUTPUT
+
+<img width="1468" height="808" alt="Image" src="https://github.com/user-attachments/assets/8f3db148-e49c-4950-bf62-edaade8d6129" />
